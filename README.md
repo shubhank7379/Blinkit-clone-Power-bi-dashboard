@@ -18,7 +18,6 @@ Analyze customer preferences (fat content & item type)
 Compare outlet performance by size, location, and type
 
 Identify area-level trends and patterns
-
 Demonstrate end-to-end Power BI project execution
 ---------------------------------------------------
 # Tools & Technologies
