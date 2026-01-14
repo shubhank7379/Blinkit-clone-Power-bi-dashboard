@@ -38,7 +38,7 @@ Customer ratings
 
 Outlet size, location & type
 
-Source-https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI(got from youtube )
+Source-https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI (got  it from youtube )
 
 ---------------------------------------------------------------------------------------------------
 
