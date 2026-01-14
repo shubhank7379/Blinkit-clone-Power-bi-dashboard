@@ -11,23 +11,19 @@ This project is a Power BI dashboard clone created to simulate how a quick-comme
 The goal is to extract meaningful insights for a selected area using industry-relevant KPIs, interactive visuals, and DAX measures—similar to real-world business intelligence workflows.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Business Objectives
-Simulate sales performance analysis for a quick-commerce business
+- Simulate sales performance analysis** for a quick-commerce business
+- Analyze customer preferences** (fat content & item type)
+- Compare outlet performance** by size, location, and type
+- Identify area-level trends** and patterns
+- Demonstrate end-to-end Power BI project execution**
 
-Analyze customer preferences (fat content & item type)
-
-Compare outlet performance by size, location, and type
-
-Identify area-level trends and patterns
-Demonstrate end-to-end Power BI project execution
 ---------------------------------------------------
 # Tools & Technologies
-Power BI Desktop
+- Excel (Data Source)
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query (Data Cleaning & Transformation)
 
-DAX (Data Analysis Expressions)
-
-Excel (Data Source)
-
-Power Query (Data Cleaning & Transformation)
 -------------------------------------------------
 ## Dataset Description and Sorce 
 The dataset is synthetic / practice-based and includes:
