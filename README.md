@@ -1,6 +1,6 @@
-# Blinkit-clone-Power-bi-dashboard
+# blinkit-clone-Power-bi-dashboard
 
-Blinkit Sales Analysis – Power BI Dashboard (Clone Project)
+blinkit Sales Analysis – Power BI Dashboard (Clone Project)
 !! Disclaimer
 This project is a clone / practice-based analytical case study and does NOT use real Blinkit business data.
 The dataset used is publicly available / simulated and the brand name “Blinkit” is used only for educational and learning purposes to demonstrate Power BI skills, data modeling, DAX calculations, and dashboard design.
